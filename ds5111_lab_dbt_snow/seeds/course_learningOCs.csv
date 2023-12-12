@@ -1,0 +1,6 @@
+LOC_id,mnemonic,LOC_desc,active_flag
+1,ds_tech_bootcamp,Research documentation on your own as a first line of action,Y
+2,ds_tech_bootcamp,Describe the components of a computer,Y
+3,ds_tech_bootcamp,Explain the scales of computational power and scales of data,Y
+4,ds_tech_bootcamp,Differentiate between Windows MacOS and Linux operating systems,Y
+5,ds_tech_bootcamp,Compare Command Line (CLI) and Graphical User Interface (GUI) shells,Y
